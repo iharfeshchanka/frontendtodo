@@ -1,0 +1,7 @@
+.todo-modal-container {
+    width: 500px;
+    padding: 20px 40px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 200px auto;
+}

@@ -1,0 +1,42 @@
+.todo-element-container {
+    display: flex;
+    flex-direction: row;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+
+.todo-element-text {
+    font-size: 14px;
+    line-height: 16px;
+    color: black;
+    margin: 0;
+}
+
+.todo-element-text {
+    font-size: 14px;
+    line-height: 16px;
+    color: black;
+    margin: 0;
+}
+
+.todo-element-text-completed {
+    font-size: 14px;
+    line-height: 16px;
+    color: black;
+    margin: 0;
+    text-decoration: line-through;
+}
+
+
+.todo-element-button-container {
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+}
+.todo-element-value-wrapper {
+    display: flex;
+    flex-direction: row;
+}
